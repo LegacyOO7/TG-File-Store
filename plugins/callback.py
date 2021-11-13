@@ -17,6 +17,7 @@ async def help_cb(c, m):
 
     # help text
     help_text = """**You need Help?? 🧐**
+
 JOIN @MT_DVD ✨ FOR UPDATES
  """
 
@@ -59,7 +60,7 @@ async def about_cb(c, m):
 
 🧰 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤: [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
+
 
 📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [NEW UPDATES](https://t.me/MT_DVD)
 
